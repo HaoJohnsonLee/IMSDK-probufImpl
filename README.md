@@ -1,3 +1,5 @@
-# IMSDK-probufImpl
-IMSDK-Server-netty-probuf实现
-提供添加群聊接口、分布式接口。
+##基于IMSDK 二次开发版本(非实际使用),仅供学习使用
+###  - 感谢[即时通讯网](http://www.52im.net)的资料及代码
+    1. 提供添加群聊接口、分布式接口。
+    2. 提供自定义消息接口
+    3. 添加probuf协议支持

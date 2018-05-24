@@ -1,0 +1,12 @@
+syntax = "proto3";
+package per.johnson.server.protocal;
+message Protocal{
+    bool bridge = 1;
+    int32 type =2;
+    string dataContent = 3;
+    string from = 4;
+    string to = 5;
+    string fp = 6;
+    bool QoS = 7;
+    int32 typeu = 8;
+}
